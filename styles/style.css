@@ -2,12 +2,7 @@ p {
   color: crimson;
 }
 
-h1  {
-  color: blue;
-  border: 5px solid black;
-}
-
-p, h1, h2, h3, h4, ul {
+p, h2, h3, h4, h5, ul {
   font-family: 'Roboto', sans-serif;
   text-align: center
 }
